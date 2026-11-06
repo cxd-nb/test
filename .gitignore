@@ -1,0 +1,8 @@
+# 编译生成的可执行文件和中间文件
+*.exe
+*.ilk
+*.obj
+*.pdb
+
+# VS Code 编译器配置文件
+.vscode/
