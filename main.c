@@ -18,5 +18,6 @@ int main() {
         printf("%d^%d=%lld\n",b,b,num);
     }
     
-    
+    return 0;
+        
 }
