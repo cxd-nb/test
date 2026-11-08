@@ -2,6 +2,7 @@
 # include <math.h>
 
 int main() {
+    /*
     int a = 1;
     int b = 1;
     int sum = 1;
@@ -17,6 +18,7 @@ int main() {
         num = pow(b, b);
         printf("%d^%d=%lld\n",b,b,num);
     }
+    */
     
     return 0;
         
