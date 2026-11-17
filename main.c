@@ -20,6 +20,18 @@ int main() {
     }
     */
     
+    int a = 1;
+    int b = 1;
+    for (a = 1; a < 10; a++)
+        {
+            for (b = a; b < 10; b++)
+            {
+                printf("%d*%d = %-4d", a, b, a*b);
+            }
+            printf("\n");
+        }
+
+
     return 0;
         
 }
